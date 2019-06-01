@@ -1,9 +1,14 @@
--Willkommen zu meinem Alarm Projekt. Nachdem ich nur die Grundlagen der C# Syntax gelernt habe, habe ich es geschafft, meine erste aber einfache Applikation mit Unity zu Entwickeln.
+-Willkommen zu meinem Alarm Projekt.
+Nachdem ich nur die Grundlagen der C# Syntax gelernt habe, habe ich es geschafft, meine erste aber einfache Applikation mit Unity zu Entwickeln.
 
--Was kann diese App machen? Und was für Funktionalitäten sind da umgesetzt? Die Applikation kann man als eine Stoppuhr nutzen, die Sekunden, Minuten und Stunden zählt, nachdem man die "Play" Taste drückt. Da gibt es auch 2 zusätzliche Funktionen wie: das Zurücksetzen der Zeit und Runde. Die "Lap" Taste, wenn gedrückt, drückt die aktuelle Zeit auf ein Eingabefeld, das nach dem ersten Drück auf die "Lap" Taste erscheint. Die "Reset" Taste setzt die angezeigte Zeit, wie auch die Runden Information zurück.
+-Was kann diese App machen? Und was für Funktionalitäten sind da umgesetzt?
+Die Applikation kann man als eine Stoppuhr nutzen, die Sekunden, Minuten und Stunden zählt, nachdem man die "Play" Taste drückt.
+Da gibt es auch 2 zusätzliche Funktionen wie: das Zurücksetzen der Zeit und Runde. Die "Lap" Taste, wenn gedrückt, drückt die aktuelle Zeit auf ein Eingabefeld, das nach dem ersten Drück auf die "Lap" Taste erscheint.
+Die "Reset" Taste setzt die angezeigte Zeit, wie auch die Runden Information zurück.
 
 Die zwei Symbole im Unteren Bereich der Applikation, ermöglichen die Wechslung zwischen die Stoppuhr und Timer.
 
-Den Timer kann man, als ein Countdown benutzen um herauszufinden wie oft kann eine Betätigung in bestimmtem Zeitraum passieren. Die "+15s" und "+1min" Tasten erlauben dem Nutzer, die Sekunden oder Minuten auf den Timer hinzufügen. Wenn der Timer Null Sekunden erreicht, der Audioclip wird abgespielt.
+Den Timer kann man, als ein Countdown benutzen um herauszufinden wie oft kann eine Betätigung in bestimmtem Zeitraum passieren.
+Die "+15s" und "+1min" Tasten erlauben dem Nutzer, die Sekunden oder Minuten auf den Timer hinzufügen. Wenn der Timer Null Sekunden erreicht, der Audioclip wird abgespielt.
 
 -Patrik Ponjavic
